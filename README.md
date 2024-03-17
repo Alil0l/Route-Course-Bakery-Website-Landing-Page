@@ -7,4 +7,4 @@
  
  Also used Javascript to add a map to the page using leaflet API.  
 
-<a href="https://alil0l.github.io/Route-Course-Bakery-Website-Landing-Page/" style="text-align: center;">LIVE DEMO</a>
+<a href="https://alil0l.github.io/Route-Course-Bakery-Website-Landing-Page/" style="text-align: center;" target="_blank">LIVE DEMO</a>
